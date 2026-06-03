@@ -1,0 +1,23 @@
+{
+  "name": "titanu-a28-secure-memory-scrubber",
+  "version": "1.0.0",
+  "description": "TitanU AI \u2014 MONGODB track \u2014 Google Cloud Rapid Agent Hackathon \u2014 JCH-2026-001",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "gemini",
+    "google-cloud",
+    "vertex-ai",
+    "mongodb",
+    "hackathon",
+    "titanu-ai"
+  ],
+  "author": "Julius Cameron Hill \u2014 TitanU AI LLC",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/vertexai": "^1.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
